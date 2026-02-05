@@ -1,5 +1,11 @@
 [
   {
+    "title": "Hotfix 1.0.3",
+    "url": "https://steamcommunity.com/games/696220/announcements/detail/523115482349305868",
+    "date": "Thu, 05 Feb 2026 09:29:56 +0000",
+    "html": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\">Fixed not being able to close the settings window from the main menu with the close button.</p></li><li><p class=\"bb_paragraph\">Fixed getting soft locked when opening tutorial popups in the main menu.</p></li><li><p class=\"bb_paragraph\">Fixed bolt not showing when switching to a loaded crossbow from the hot bar.</p></li><li><p class=\"bb_paragraph\">Optimized Mothman damage particles.</p></li><li><p class=\"bb_paragraph\">Added new sound effects for using bandages and batteries.</p></li><li><p class=\"bb_paragraph\">Fixed voice logs getting cutoff in the Operation Blackwing hunt.</p></li><li><p class=\"bb_paragraph\">Improved player onboarding tutorial popups in the lobby.</p></li><li><p class=\"bb_paragraph\">Added a button in settings to reset seen tutorials.</p></li><li><p class=\"bb_paragraph\">General level optimization pass on all story hunts and contract maps.</p></li><li><p class=\"bb_paragraph\">Hand-radio now displays \"receiving transmission\" when one is playing.</p></li><li><p class=\"bb_paragraph\">Fixed multiple Out of bounds exploits in Operation: Blackwing.</p></li><li><p class=\"bb_paragraph\">Players can no longer jump to get out of a beam attack.</p></li></ul>"
+  },
+  {
     "title": "Hotfix 1.0.2",
     "url": "https://steamcommunity.com/games/696220/announcements/detail/533247947228316905",
     "date": "Mon, 02 Feb 2026 09:23:13 +0000",
@@ -52,11 +58,5 @@
     "url": "https://steamcommunity.com/games/696220/announcements/detail/3718343313156617907",
     "date": "Tue, 24 Oct 2023 10:11:38 +0000",
     "html": "<div class=\"bb_h3\">Changes:</div><ul class=\"bb_ul\"><li>Added spooky decorations to the Fortress for Halloween<br></li><li>Fixed issue causing connection loss upon opening inventory<br></li><li>Weapon fire registration improved<br></li><li>Video settings no longer reset upon game restart<br></li><li>Crossbow bolts no longer get stuck in the Wendigo ritual field<br></li><li>Fixed bug causing loaded ammo to be shared between weapons with identical data<br></li><li>Removed inescapable pits from contract maps<br></li><li>Holding a U.V. Lamp when beginning a contract no longer launches the player into space<br></li><li>Fixed various issues causing the Wendigo to get stuck inside the cabin<br></li><li>Patched infinite ammo glitch when ammo is removed from the inventory during a reload animation<br></li><li>Dynamite crates are now easier to spot<br></li><li>Decreased brightness of the Flashlight in the Fortress</li></ul>"
-  },
-  {
-    "title": "Folklore Hunter - 0.9.0.12",
-    "url": "https://steamcommunity.com/games/696220/announcements/detail/3735229909387611476",
-    "date": "Tue, 03 Oct 2023 10:27:59 +0000",
-    "html": "<div class=\"bb_h3\">Changes</div><ul class=\"bb_ul\"><li>Fixed bug causing level and equipment to be reset with poor connection<br></li><li>Bloodfang Forest story hunt will now give rewards upon first completion<br></li><li>Hotbar shortcut bindings now select the correct hotbar slots<br></li><li>The results menu will now be displayed upon completing a story hunt<br></li><li>Input delay reduced for the flashlight<br></li><li>Exit results vote timer increased from 60 seconds to 120 seconds<br></li><li>Fixed players failing to highlight when dead<br></li><li>Wendigo now consistently screams when fleeing<br></li><li>In-game timer fixed<br></li><li>Wolf death animation is now more consistent<br></li><li>Fixed bug causing dynamite crates to disappear<br></li><li>Strigoi no longer have amulets in contracts</li></ul>"
   }
 ]
